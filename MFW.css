@@ -1,0 +1,90 @@
+
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+@import url('https://fonts.googleapis.com/css?family=Nixie+One');
+
+
+
+body {
+    height: 100%;
+}
+
+
+a{
+	font-family: 'Amatic SC';
+	font-size:45px;
+	
+
+}
+a:hover{
+color: #DA7F8D;
+  transition: 0.2s;
+  letter-spacing: 3px;
+}
+.align-items-center {
+  -ms-flex-align: center!important;
+  align-items: center!important;
+}
+.d-flex {
+  display: -ms-flexbox!important;
+  display: flex!important;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+}
+.pacifico {
+	font-family: 'Pacifico';
+	font-size:100px;
+	color:#ff918c;
+}
+.AmaticSC{
+	font-family: 'Amatic SC';
+	font-size:45px;
+	color:#b76e79;
+}
+#nav { background: url(http://i68.tinypic.com/2nant4p.jpg); background-size:cover;padding-top: 0px; padding-bottom: 0px;
+ height: 200px;
+
+ } 
+.navbar-default {
+    background: none;
+  text-align: center;
+
+
+
+}
+
+nav .navbar-nav li a{
+  color:#914853 !important;
+  }
+.navbar-nav > li{
+  padding-left:80px;
+  padding-right:80px;
+  position:absolute;
+}
+.nav>li>a:focus, .nav>li>a:hover {
+        text-decoration: none;
+        background-color: transparent !important;
+  }
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #DB5A6B !important;
+}
+
+
+.portfolio-section {
+    text-align: center;
+    position:center;
+
+}
+
+.no-margin {
+	margin:0px;
+}
+no-padding{
+	padding:0px;
+}

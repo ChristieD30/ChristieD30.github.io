@@ -25,6 +25,7 @@ color: #DA7F8D;
   -ms-flex-align: center!important;
   align-items: center!important;
 
+
 }
 .d-flex {
   display: -ms-flexbox!important;
@@ -82,6 +83,7 @@ nav .navbar-nav li a{
 .portfolio-section {
     text-align: center;
     position:top-center fixed;
+    padding:200px;
 
 
 }

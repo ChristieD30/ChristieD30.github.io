@@ -12,7 +12,7 @@ body {
 
 a{
 	font-family: 'Amatic SC';
-	font-size:45px;
+	font-size:67px;
 	
 
 }
@@ -24,6 +24,7 @@ color: #DA7F8D;
 .align-items-center {
   -ms-flex-align: center!important;
   align-items: center!important;
+
 }
 .d-flex {
   display: -ms-flexbox!important;
@@ -63,6 +64,8 @@ nav .navbar-nav li a{
   color:#914853 !important;
   }
 .navbar-nav > li{
+ 
+  padding-bottom: 125px;
   padding-left:80px;
   padding-right:80px;
   position:absolute;
@@ -78,7 +81,8 @@ nav .navbar-nav li a{
 
 .portfolio-section {
     text-align: center;
-    position:center;
+    position:top-center fixed;
+
 
 }
 
